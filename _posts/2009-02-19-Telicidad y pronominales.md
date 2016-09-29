@@ -9,21 +9,19 @@ Cuando los filólogos nos aburrimos, nos aburrimos a lot. Y cuando digo filólog
 
 El otro día me llegó un correo de esa lista en la que se preguntaba la razón de por qué la frase los niños comieron cordero era correcta y *los niños se comieron cordero, no (en comentarios y discusiones filológicas se pone el asterisco a los ejemplos que son incorrectos o agramaticales). Mi teoría es la siguiente (y ahora es cuando empieza el coñazo):
 
-#VERBOS PRONOMINALES
+##VERBOS PRONOMINALES
 
 Los verbos pronominales son los que llevan el -se en el infinitivo: caerse, lavarse, cagarse… Dentro de los verbos pronominales, los hay que son reflexivos, como lavarse. A estos verbos se les reconoce porque el sujeto y el objeto directo son el mismo ser. En me ducho, el sujeto es yo y el objeto directo, también, expresado con el pronombre me. Sin embargo, en me caigo, el sujeto es yo pero no hay objeto directo, por lo tanto no es reflexivo. De la misma manera, yo me como una paella nos dice que comerse, aunque lleva el pronombre, no es reflexivo porque el sujeto es yo y el objeto directo es la paella.
 
 Cuando hicieron la pregunta en la lista de correo contesté que los niños se comieron paella es incorrecta pero los niños se comieron la paella es correcta, así que la diferencia para mí estaba en la determinación del objeto directo paella – LA paella. Y aquí llegó el lío.
 
-#TELICIDAD
+##TELICIDAD
 
 Este palabro infecto yo no lo uso jamás, a los verbos télicos yo los llamo autoconclusivos porque mis pequeños saltamontes lo aprenden mejor puesto que lo segundo es más descriptivo, dónde va a parar (no quiero risitas), que lo primero, pero usaré lo de télicos por aquello de que usar los tecnicismos parece que le da un boato y una cosa que, oye, es algo por demás.
 
 Un verbo télico es el que cuando empieza tiene, necesariamente, que terminar. Por ejemplo, el verbo llegar. Cuando decimos Pepito llegó a casa a las seis la acción tiene que haber terminado. De la misma forma que Pepito se murió tiene un fin necesario: que Pepito la espiche. Porque si alguien empieza a morirse, tarde o temprano estará con los angelitos. ¿O sabéis de alguien que haya empezado a morirse y haya dejado aquello a mitad, eh?
 
 Otra explicación, más fácil pero no menos impactante. Atención, que va: un verbo télico es el que si se interrumpe, no ocurre…
-
-…
 
 ¿Qué? ¿Eh? ¿A que has leído la frase dos veces? Repito: un verbo télico es el que si se interrumpe, no ocurre. Ejemplos:
 
