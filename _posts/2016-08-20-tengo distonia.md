@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Tengo distonía'
 ---
 La semana que viene, este blog cumplirá diez años.
