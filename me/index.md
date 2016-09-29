@@ -18,7 +18,7 @@ Sobre contar lo maravilloso que soy, si me conoces ya lo sabrás. Y si no, he aq
 
 * Hablo castellano y catalán, inglés, alemán, danés y esperanto con fluidez. El ruso lo tengo oxidado, pero cuenta la leyenda que en algún momento del pasado pude hablarlo.
 
-* Con un poco de tiempo, podría hablar quenya. Pero de vocabulario ando un poco escaso. Además de *yelmo* o *cota de malla* me hacen falta otras palabras y expresiones como *huevos a la flamenca*, *destornillador* o *vete a la mierda, hijo de Mordor.* 
+* Con un poco de tiempo, podría hablar quenya. Pero de vocabulario ando un poco escaso. Además de _yelmo_ o *cota de malla* me hacen falta otras palabras y expresiones como *huevos a la flamenca*, *destornillador* o *vete a la mierda, hijo de Mordor.* 
 
 Dicho esto, declaro que la filosofía de este sitio es la siguiente:
 
