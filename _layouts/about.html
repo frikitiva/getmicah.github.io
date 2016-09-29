@@ -6,6 +6,6 @@ layout: default
     <a class="about__back" href="/">&lt;- Volver al principio</a>
     <h1 class="about__title">Sobre mí y sobre este blog:</h1>
     <div class="about__content">
-        {{ content }}
+        {{ content | markdownify }}
     </div>
 </div>
