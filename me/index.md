@@ -23,7 +23,9 @@ Sobre contar lo maravilloso que soy, si me conoces ya lo sabrás. Y si no, he aq
 Dicho esto, declaro que la filosofía de este sitio es la siguiente:
 
 1. Que este es mi blog y que aquí escribo lo que me sale del toto, fundamentalmente. 
+
 2. Que si tienes algún problema con lo de arriba, te puedes hacer un blog, como yo he hecho. 
+
 3. Que puedes enviarme un mensaje a admin algarroba lafrikitiva punto com (codazo, codazo, guiño).
 
 He dicho.
