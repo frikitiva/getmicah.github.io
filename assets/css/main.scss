@@ -3,11 +3,12 @@
 
 @import "reset";
 @import "config";
+@import 'https://fonts.googleapis.com/css?family=Space+Mono:400,400i';
 
 body {
 	color: $color-black;
 	background: $color-white;
-	font-family: 'Inconsolata', ;
+	font-family: 'Space Mono', ;
 	font-size: 100%;
 	font-weight: 400;
 }
@@ -49,7 +50,7 @@ ul {
 
 
 .wrapper {
-	max-width: 600px;
+	max-width: 500px;
 	margin: auto;
 	padding: 60px 30px 60px 30px;
 	@media screen and (max-width: $br) {
