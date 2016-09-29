@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tanatorios
+title: Tanatorios
 ---
 Ayer fue un día de mierda. Tuve que ir a un tanatorio y entré, por primera vez en mucho tiempo, a una misa y salí más acojonao que después de ver «Supersize Me»: entre tanta amenaza de quemarme en las llamas del infierno y mientras intentaba llevar el ritmo de sentarme – levantarme – sentarme sin que se me notara mucho el hastío, reflexionuve lo siguiente:
 
