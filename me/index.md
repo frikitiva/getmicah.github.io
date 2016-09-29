@@ -14,9 +14,7 @@ Sobre contar lo maravilloso que soy, si me conoces ya lo sabrás. Y si no, he aq
 
 - Nací en España, pero estoy deseando que me den el pasaporte danés. 
 
-- Estudié filología y lo de estudiar gramática me superflipa, sobre todo si es gramática histórica. 
-
-- Hablo castellano y catalán, inglés, alemán, danés y esperanto con fluidez. El ruso lo tengo oxidado, pero cuenta la leyenda que en algún momento del pasado pude hablarlo.
+- Estudié filología y lo de las lenguas superflipa, sobre todo si es gramática histórica. 
 
 - Con un poco de tiempo, podría hablar quenya. Pero de vocabulario ando un poco escaso. Además de _yelmo_ o *cota de malla* me hacen falta otras palabras y expresiones como *huevos a la flamenca*, *destornillador* o *vete a la mierda, hijo de Mordor.* 
 
@@ -29,4 +27,30 @@ Dicho esto, declaro que la filosofía de este sitio es la siguiente:
 1. Que puedes enviarme un mensaje a admin algarroba lafrikitiva punto com (codazo, codazo, guiño).
 
 He dicho.
+
+¿Dónde están todos los posts?
+-----------------------------
+
+No están en el fondo del mar, sino en un archivo guardado bajo siete llaves, a la espera de que se me ocurra importarlo todo. Son más de 10 años de blog, así que un poco de paciencia. 
+
+¿Vas a importar todo?
+---------------------
+
+No, sólo los posts de los que no me arrepienta... tanto. 
+
+¿Podemos ver el blog antiguo?
+----------------------------
+
+No, porque he desmontado Wordpress y he puesto a funcionar Jekyll, que es más rápido y consume menos. 
+
+Te queremos tanto,... ¿podemos enviarte flores? ¿Dinero?
+--------------------------------------------------------
+
+Claro que sí, búscame en Facebook o en Twitter y pídeme mi número de cuenta. 
+
+---
+
+Este blog está construido con Jekyll y con mucho :heart:.
+
+Proudly made in Denmark. :dk:
 
