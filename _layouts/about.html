@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div class="header">
+    <h1></h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
 <div class="about">
     <a class="about__back" href="/">&lt;- Volver al principio</a>
     <h1 class="about__title">Sobre mí y sobre este blog:</h1>
