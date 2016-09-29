@@ -9,7 +9,7 @@ body {
 	color: $color-black;
 	background: $color-white;
 	font-family: 'Space Mono', ;
-	font-size: 100%;
+	font-size: 90%;
 	font-weight: 400;
 }
 h1 {
@@ -68,7 +68,7 @@ ul {
 		display: block;
 	}
 	h1 {
-		font-size: 2em;
+		font-size: 1em;
 		margin-bottom: 0;
 	}
 	ul {
@@ -84,7 +84,7 @@ ul {
 .blog {
 	padding-bottom: 30px;
 	h1 {
-		font-size: 1.4em;
+		font-size: 1em;
 		margin-bottom: 5px;
 	}
 }
@@ -92,7 +92,7 @@ ul {
 .music {
 	padding-bottom: 30px;
 	h1 {
-		font-size: 1.4em;
+		font-size: 1em;
 		margin-bottom: 5px;
 	}
 	a {
@@ -114,7 +114,7 @@ ul {
 		margin-bottom: 6px;
 		h1 {
 			display: inline-block;
-			font-size: 1.6em;
+			font-size: 1em;
 			font-weight: 700;
 			padding-right: 10px;
 			padding-bottom: 2px;
@@ -136,13 +136,13 @@ ul {
 	&__content {
 		padding-top: 40px;
 		h1 {
-			font-size: 1.4em;
+			font-size: 1em;
 			font-weight: 700;
 			margin-top: 50px;
 			margin-bottom: 10px;
 		}
 		h2 {
-			font-size: 1.1em;
+			font-size: 1em;
 			font-weight: 700;
 			margin-top: 25px;
 			margin-bottom: 5px;
@@ -219,7 +219,7 @@ ul {
 
 .about {
 	&__title {
-		font-size: 1.6em;
+		font-size: 1em;
 		font-weight: 700;
 		margin-top: 20px;
 		margin-bottom: 10px;
@@ -227,7 +227,7 @@ ul {
 	&__content {
 		margin-top: 20px;
 		h1 {
-			font-size: 1.2em;
+			font-size: 1em;
 			font-style: italic;
 			margin-top: 30px;
 			margin-bottom: 5px;
