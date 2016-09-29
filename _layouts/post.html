@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div class="header">
+    <h1></h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
 <div class="post">
 	
     <div class="post__title">
