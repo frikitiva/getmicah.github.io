@@ -20,20 +20,20 @@ p {
 	line-height: 150%;
 }
 a {
-  color: $color-link;
+  color: #7E8AA2;
   text-decoration: none;
   &:visited {
-	color: $color-link;
+	color: #7E8AA2;
 	text-decoration: none;
   }
   &:hover {
-	color: $color-link;
+	color: #7E8AA2;
 	text-decoration: none;
 	padding-bottom: 1px;
 	border-bottom: 1px solid $color-link;
   }
   &:active {
-	color: $color-link;
+	color: #7E8AA2;
 	text-decoration: none;
   }
 }
@@ -154,7 +154,7 @@ ul {
 		}
 		a {
 			padding-bottom: 1px;
-			border-bottom: 1px solid $color-link;
+			border-bottom: 1px solid #7E8AA2;
 			&:hover {
 				background-color: $color-grey;
 				text-decoration: none;
