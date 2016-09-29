@@ -78,6 +78,10 @@ ul {
 	@media screen and (max-width: $br) {
 		display: block;
 	}
+	header a.logo { float: left; max-height: 50px; }
+	
+	header a.logo img { max-height: 30px; margin-top: 10px; margin-bottom: 10px; }
+	
 	h1 {
 		font-size: 1em;
 		margin-bottom: 0;
