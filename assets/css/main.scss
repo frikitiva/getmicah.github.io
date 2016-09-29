@@ -12,6 +12,17 @@ body {
 	font-size: 90%;
 	font-weight: 400;
 }
+
+strong, b, strong *, b *
+{
+  font-weight: bold;
+}
+
+em, i, em *, i *
+{
+  font-style: italic;
+}
+
 h1 {
 	margin-bottom: 5px;
 }
