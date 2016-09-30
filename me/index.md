@@ -27,26 +27,22 @@ Dicho esto, declaro que la filosofía de este sitio es la siguiente:
 1. Que puedes enviarme un mensaje a admin algarroba lafrikitiva punto com (codazo, codazo, guiño).
 
 He dicho.
-
-¿Dónde están todos los posts?
------------------------------
+---
+__¿Dónde están todos los posts?__
 
 No están en el fondo del mar, sino en un archivo guardado bajo siete llaves, a la espera de que se me ocurra importarlo todo. Son más de 10 años de blog, así que un poco de paciencia. 
 
-¿Vas a importar todo?
----------------------
+__¿Vas a importar todo?__
 
-No, sólo los posts de los que no me arrepienta... tanto. 
+No, sólo los que no me den _tanta_ vergüenza ajena. 
 
-¿Podemos ver el blog antiguo?
-----------------------------
+__¿Podemos ver el blog antiguo?__
 
 No, porque he desmontado Wordpress y he puesto a funcionar Jekyll, que es más rápido y consume menos. 
 
-Te queremos tanto,... ¿podemos enviarte flores? ¿Dinero?
---------------------------------------------------------
+__Te queremos tanto,... ¿podemos enviarte flores? ¿Dinero? ¿Favores sexuales?
 
-Claro que sí, búscame en Facebook o en Twitter y pídeme mi número de cuenta. 
+Claro que sí, búscame en Facebook o en Twitter y pídeme mi número de cuenta o envíame un reportaje fotográfico entero. 
 
 ---
 
