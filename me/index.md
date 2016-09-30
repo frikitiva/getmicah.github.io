@@ -27,7 +27,8 @@ Dicho esto, declaro que la filosofía de este sitio es la siguiente:
 1. Que puedes enviarme un mensaje a admin algarroba lafrikitiva punto com (codazo, codazo, guiño).
 
 He dicho.
----
+
+-----
 __¿Dónde están todos los posts?__
 
 No están en el fondo del mar, sino en un archivo guardado bajo siete llaves, a la espera de que se me ocurra importarlo todo. Son más de 10 años de blog, así que un poco de paciencia. 
