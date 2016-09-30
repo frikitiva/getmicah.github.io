@@ -41,7 +41,7 @@ __¿Podemos ver el blog antiguo?__
 
 No, porque he desmontado Wordpress y he puesto a funcionar Jekyll, que es más rápido y consume menos. 
 
-__Te queremos tanto,... ¿podemos enviarte flores? ¿Dinero? ¿Favores sexuales?
+__Te queremos tanto,... ¿podemos enviarte flores? ¿Dinero? ¿Favores sexuales?__
 
 Claro que sí, búscame en Facebook o en Twitter y pídeme mi número de cuenta o envíame un reportaje fotográfico entero. 
 
