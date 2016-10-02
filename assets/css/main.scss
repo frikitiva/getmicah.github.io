@@ -94,6 +94,11 @@ table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 
 .wrapper {
 	max-width: 500px;
