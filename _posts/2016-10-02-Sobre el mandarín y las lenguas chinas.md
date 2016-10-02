@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sobre el mandarín y las lenguas chinas
-image: https://static.pexels.com/photos/2950/lamp-traditional-asia-china.jpg
+image: /assets/img/china.jpg
 excerpt: No, los chinos no hablan *chino*.
 ---
 
