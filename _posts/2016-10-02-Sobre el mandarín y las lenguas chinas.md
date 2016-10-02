@@ -23,8 +23,8 @@ Según la [wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_total_n
 TABLA DE HABLANTES 
  
 |LENGUA|1L |2L | Total| 
-|---|---|---|---| 
-| Mandarín | 900 | 410 | 1.300|  
+|---|---:|---:|---:| 
+| Mandarín | 900 | 410 | 1300|  
 |Español | 472 | 94 | 570| 
 |Inglés | 339 | 603 | 942 | 
 |Árabe | 295 | 90 | 385 | 
