@@ -8,9 +8,11 @@ title: Sobre el mandarín y las lenguas chinas
  
 He aquí una mentira repugnante: _los chinos hablan chino_.  
  
-No. Los chinos no hablan chino. Lo que hablan los chinos es la __lengua más hablada del mundo___, pero no es chino.  
+No. Los chinos no hablan chino. Lo que hablan los chinos es la __lengua más hablada del mundo__, pero no es chino.  
  
-¿Cuál es la lengua más hablada del mundo? El mandarín, aunque es una pregunta difícil de responder porque, para empezar, recoger los datos es una pesadilla. En algunos países no hay censos fiables, en otros, ni siquiera hay registros sobre hablantes. Pero sí, según lo que sabemos, la lengua más hablada del mundo __el mandarín__, no _el chino_ a secas). 
+__¿Cuál es la lengua más hablada del mundo?__
+
+El mandarín, aunque es una pregunta difícil de responder porque, para empezar, recoger los datos es una pesadilla. En algunos países no hay censos fiables, en otros, ni siquiera hay registros sobre hablantes. Pero sí, según lo que sabemos, la lengua más hablada del mundo __el mandarín__, no _el chino_ a secas). 
  
 Según cómo formulemos la pregunta, obtendremos una respuesta u otra. No es lo mismo _cuál es la lengua más hablada del mundo_ que _cuál es la lengua más extendida del mundo_ o _cuál es la lengua con más hablantes nativos_. La lengua más extendida del mundo es el inglés, pero _extendida_ no quiere decir necesariamente que tenga más hablantes.   
  
@@ -38,9 +40,9 @@ El mandarín es la lengua con más hablantes del mundo: 1.300 millones en total,
  
 ![Las lenguas chinas](https://upload.wikimedia.org/wikipedia/commons/a/a9/Map_of_sinitic_languages_full-en.svg) 
  
-El mandarín es una de las (tantísimas) lenguas chinas y es a la que nos referimos habitualmente cuando decimos _el chino_ y nos referimos a una lengua. A los demás chinos nos referimos por su nombre y apellidos. Yo conocí a un chino que se llamaba Pepe, pero esa es otra historia[^1]. Los hablantes de mandarín, que es una lengua china del norte, no se entienden con los hablantes de _wu_ (el chino de Shanghái) o de _cantonés_, que son lenguas del sur.  
+El mandarín es una de las (tantísimas) lenguas chinas y es a la que nos referimos habitualmente cuando decimos _el chino_ y nos referimos a una lengua. A los demás chinos nos referimos por su nombre y apellidos. Yo conocí a un chino que se llamaba Pepe, pero esa es otra historia [^1]. Los hablantes de mandarín, que es una lengua china del norte, no se entienden con los hablantes de _wu_ (el chino de Shanghái) o de _cantonés_, que son lenguas del sur.  
  
-[^1]: Valencianos, muchos de vosotros seguro que conocéis a Pepe. Regenta un restaurante vegetariano en el centro de Valencia.  
+[^1]: Nota al pie: Valencianos, muchos de vosotros seguro que conocéis a Pepe. Regenta un restaurante vegetariano en el centro de Valencia.  
  
 El chino estándar, el _putonghua_, está basado en el mandarín estándar con la pronunciación de Beijing. Se estableció como estándar en 1932 y la República Popular China lo adoptó desde su fundación en 1949. La cifra estimada de hablantes de mandarín que endiende el _putonghua_ no es el 100%, curiosamente.  
  
