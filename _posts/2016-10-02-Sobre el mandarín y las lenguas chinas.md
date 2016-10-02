@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Sobre el mandarín y las lenguas chinas
+image: https://static.pexels.com/photos/2950/lamp-traditional-asia-china.jpg
+excerpt: No, los chinos no hablan *chino*.
 ---
 
 ![China](https://static.pexels.com/photos/2950/lamp-traditional-asia-china.jpg 
 ) 
  
-He aquí una mentira repugnante: _los chinos hablan chino_.  
+He aquí una mentira repugnante: _los chinos hablan chino_. Muerte y destrucción.
  
-No. Los chinos no hablan chino. Lo que hablan los chinos es la __lengua más hablada del mundo__, pero no es chino.  
+No. Los chinos no hablan chino. Lo que hablan los chinos es la lengua más hablada del mundo, pero no es chino.  
  
 __¿Cuál es la lengua más hablada del mundo?__
 
