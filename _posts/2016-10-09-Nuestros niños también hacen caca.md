@@ -29,10 +29,5 @@ Stomach or Gut: (en danés) _laver mad om til_ :caca:
 Traducción: _transforma la comida en caca_.  
  
 Y como esas, algunas más.  
- 
-Sí, trabajamos los fines de semana.  
- 
-Sí, aunque nos lo pasamos bien, es una profesión dura.  
- 
-Y sí, nos pagan poco y mal.  
- 
+
+No me quejo del trabajo: tengo la suerte de que me dedico a lo que me gusta. Claro, preferiría dedicarme a rascarme los huevos, que también me gusta, pero esa es otra historia. Insisto: no me quejo de mi trabajo, pero a veces me toca la pirindola que me digan la suerte que tengo y las vacaciones que me pego. Coño, pues dedícate tú a enseñar, ¿no te jode?
