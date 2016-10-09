@@ -1,6 +1,8 @@
 --- 
-Layout: post 
-Title: Nuestros niños también hacen caca 
+layout: post 
+title: Nuestros niños también hacen caca 
+image: /assets/img/kidney1.jpg
+Excerpt: Ser profesor no es tan fácil como dicen. 
 --- 
 Los maestros sí trabajamos. De hecho, trabajamos muchas horas. Hoy mismo, domingo, he ido al colegio a preparar unos exámenes para mañana. Allí me he encontrado a un compañero que estaba escaneando un libro para proyectarlo en la pizarra y a otra que estaba usando la máquina de plastificar como si su vida dependiera de ello.  
  
