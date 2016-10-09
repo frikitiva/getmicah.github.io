@@ -24,7 +24,7 @@ Stomach or Gut: _all the food goes there and then we poo_.
  
 Transcripción:  
  
-Stomach or Gut: (en danés) _laver mad om til_ :caca: 
+Stomach or Gut: (en danés) _laver mad om til_ :poop: 
  
 Traducción: _transforma la comida en caca_.  
  
