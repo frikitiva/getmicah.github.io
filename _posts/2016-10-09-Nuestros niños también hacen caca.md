@@ -14,13 +14,13 @@ Me ha enseñado lo que estaba haciendo en ese momento: corregir un examen de cie
  
 Estudiante 1 
  
-![We poo](/assets/img/kidney1.jpg "We poo") 
+![We poo](http://frikitiva.github.io/assets/img/kidney1.jpg "We poo") 
  
 Transcripción: 
  
 Stomach or Gut: _all the food goes there and then we poo_.  
  
-![Transforma la comida en caca](/assets/img/kidney2.jpg "Transforma la comida en caca") 
+![Transforma la comida en caca](http://frikitiva.github.io/assets/img/kidney2.jpg "Transforma la comida en caca") 
  
 Transcripción:  
  
