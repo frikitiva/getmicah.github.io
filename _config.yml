@@ -27,3 +27,6 @@ kramdown:
 highlighter: rouge
 
 gems: ["emoji_for_jekyll"]
+
+gems:
+  - jekyll-feed
