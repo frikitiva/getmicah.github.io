@@ -26,7 +26,8 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 
-gems: ["emoji_for_jekyll"]
+# gems: ["emoji_for_jekyll"]
 
 gems:
   - jekyll-feed
+  - jemoji
