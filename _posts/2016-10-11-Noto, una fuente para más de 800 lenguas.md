@@ -1,7 +1,7 @@
 --- 
-Layout: post 
-Title: Noto, la fuente open source para más de 800 lenguas 
-Image: https://w3goods.com/wp-content/uploads/2015/03/Noto-Sans.jpg 
+layout: post 
+title: Noto, la fuente open source para más de 800 lenguas 
+image: https://w3goods.com/wp-content/uploads/2015/03/Noto-Sans.jpg 
 --- 
 Por si se os ha escapado, [aquí tenéis el enlace a Noto](https://www.google.com/get/noto/), una fuente open source de Google con más de 100.000 caracteres. Es gratis... ¡BIBA GÚGUEL! 
 
