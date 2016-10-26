@@ -1,8 +1,10 @@
 ---
 layout: post
 title: El calendario escolar en Cantabria
-image: 
+image: /assets/img/instituto.jpg
 ---
+![Instituto](/assets/img/instituto.jpg) 
+
 No es una noticia nueva: la Consejería de Educación, Cultura y Deporte de Cantabria publicó el lunes 20 de junio de 2016 la orden por la que se establece el calendario escolar para este curso. La novedad es que hay una semana de vacaciones cada dos meses. 
 
 En realidad, no hay semanas nuevas de vacaciones sacadas de la manga. El calendario es el mismo que el curso anterior. La diferencia es que algunos puentes se convierten en semanas largas. Al final del año, no obstante, tienen la misma cantidad de horas lectivas. 
