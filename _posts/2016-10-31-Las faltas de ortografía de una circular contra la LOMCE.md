@@ -1,7 +1,7 @@
 ---
-Layout: post
-Title: Las faltas de ortografía de una circular contra la LOMCE
-Imagen: http://images.vozpopuli.com/2016/10/28/actualidad/sociedad/increibles-faltas-ortografia-circular-LOMCE_966813460_4240378_1020x574.jpg
+layout: post
+title: Las faltas de ortografía de una circular contra la LOMCE
+imagen: http://images.vozpopuli.com/2016/10/28/actualidad/sociedad/increibles-faltas-ortografia-circular-LOMCE_966813460_4240378_1020x574.jpg
 ---
 
 Esta es la nota informativa sobre la huelga convocada contra la LOMCE que escribió el presidente del AMPA de un colegio público de Vitoria. 
