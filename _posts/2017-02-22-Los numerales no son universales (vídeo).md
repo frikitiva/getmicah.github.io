@@ -7,4 +7,4 @@ Los numerales no son universales ni están basados en el sistema decimal. Hay va
 
 En este vídeo se explica perfectamente, aunque el tipo sea bastante ahostiable.
 
-<iframe width=100% src="https://www.youtube.com/embed/l4bmZ1gRqCc?rel=0" frameborder="0" allowfullscreen> </iframe>
+<iframe width=100% src="https://www.youtube.com/embed/l4bmZ1gRqCc?rel=0" frameborder="0" allowfullscreen> < /iframe>
